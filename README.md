@@ -28,6 +28,8 @@ AI编程工具Comate：https://comate.baidu.com
 
 ## 斯坦福AI小镇
 
+https://github.com/maxoyed/generative_agents
+
 ## 大模型驱动RPG游戏NPC决策
 
 https://github.com/maxoyed/gptrpg
