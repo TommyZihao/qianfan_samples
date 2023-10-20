@@ -32,7 +32,7 @@ AI编程工具Comate：https://comate.baidu.com
 
 千帆版：https://github.com/maxoyed/generative_agents
 
-## 多智能体互动：清华八人游戏公司
+## 多智能体互动：清华八个AI组成的游戏公司
 
 https://github.com/OpenBMB/ChatDev
 
@@ -43,6 +43,8 @@ https://github.com/OpenBMB/ChatDev
 千帆版：https://github.com/maxoyed/gptrpg
 
 ## 说服挑战类游戏：劝说宿管阿姨为你开门
+
+Unity游戏：
 
 https://chat.openai.com/share/ec7b4464-17da-4dc3-aff8-9897cdc80dc0
 
