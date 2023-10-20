@@ -18,7 +18,7 @@ AI编程工具Comate：https://comate.baidu.com
 
 文心一言：https://yiyan.baidu.com
 
-## 大学思政问答GPT
+## 大学思政知识库问答GPT
 
 在线Demo：https://chatmarx.zihaoai.cn
 
@@ -26,9 +26,13 @@ AI编程工具Comate：https://comate.baidu.com
 
 项目主页：https://github.com/TommyZihao/ChatMarx
 
-## 斯坦福AI小镇
+## 多智能体互动：斯坦福AI小镇
 
 https://github.com/maxoyed/generative_agents
+
+## 多智能体互动：清华八人游戏公司
+
+https://github.com/OpenBMB/ChatDev
 
 ## 大模型驱动RPG游戏NPC决策
 
