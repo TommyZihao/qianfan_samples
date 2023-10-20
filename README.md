@@ -28,7 +28,9 @@ AI编程工具Comate：https://comate.baidu.com
 
 ## 多智能体互动：斯坦福AI小镇
 
-https://github.com/maxoyed/generative_agents
+原版：https://github.com/joonspk-research/generative_agents
+
+千帆版：https://github.com/maxoyed/generative_agents
 
 ## 多智能体互动：清华八人游戏公司
 
@@ -36,4 +38,6 @@ https://github.com/OpenBMB/ChatDev
 
 ## 大模型驱动RPG游戏NPC决策
 
-https://github.com/maxoyed/gptrpg
+原版：https://github.com/dzoba/gptrpg
+
+千帆版：https://github.com/maxoyed/gptrpg
