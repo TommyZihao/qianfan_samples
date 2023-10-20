@@ -41,3 +41,11 @@ https://github.com/OpenBMB/ChatDev
 原版：https://github.com/dzoba/gptrpg
 
 千帆版：https://github.com/maxoyed/gptrpg
+
+## 说服挑战类游戏：劝说宿管阿姨为你开门
+
+https://chat.openai.com/share/ec7b4464-17da-4dc3-aff8-9897cdc80dc0
+
+## 说服挑战类游戏：劝说延平王郑经归顺大清康熙皇帝
+
+https://chat.openai.com/share/40aafc6e-e647-4c07-b0b5-7760fe1df944
