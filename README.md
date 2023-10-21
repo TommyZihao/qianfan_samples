@@ -44,7 +44,7 @@ AI编程工具Comate：https://comate.baidu.com
 
 千帆版：https://github.com/maxoyed/gptrpg
 
-## 说服挑战类游戏：劝说宿管阿姨为你开门
+## 说服挑战类游戏：说服宿管阿姨为你开门
 
 Unity游戏：
 
@@ -61,5 +61,7 @@ https://github.com/jonathanmli/Avalon-LLM
 论文：https://browse.arxiv.org/pdf/2310.05036.pdf
 
 ## 大模型玩狼人杀桌游
+
+论文：https://arxiv.org/abs/2309.04658
 
 
