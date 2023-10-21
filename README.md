@@ -32,9 +32,11 @@ AI编程工具Comate：https://comate.baidu.com
 
 千帆版：https://github.com/maxoyed/generative_agents
 
-## 多智能体互动：清华八个AI组成的游戏公司
+## 多智能体互动：ChatDev多智能体游戏公司
 
-https://github.com/OpenBMB/ChatDev
+原版：https://github.com/OpenBMB/ChatDev
+
+论文：https://arxiv.org/abs/2307.07924
 
 ## 大模型驱动RPG游戏NPC决策
 
@@ -48,6 +50,6 @@ Unity游戏：
 
 https://chat.openai.com/share/ec7b4464-17da-4dc3-aff8-9897cdc80dc0
 
-## 说服挑战类游戏：劝说延平王郑经归顺大清康熙皇帝
+## 说服挑战类游戏：扮演纳兰明珠，劝说延平王郑经归顺大清康熙皇帝
 
 https://chat.openai.com/share/40aafc6e-e647-4c07-b0b5-7760fe1df944
