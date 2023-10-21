@@ -1,4 +1,4 @@
-# 百度智能云千帆大模型平台应用样板间（同济子豪兄）
+# 百度智能云千帆大模型平台应用样板间及参考资料（同济子豪兄）
 
 同济子豪兄 2023-10-21
 
@@ -53,3 +53,13 @@ https://chat.openai.com/share/ec7b4464-17da-4dc3-aff8-9897cdc80dc0
 ## 说服挑战类游戏：扮演纳兰明珠，劝说延平王郑经归顺大清康熙皇帝
 
 https://chat.openai.com/share/40aafc6e-e647-4c07-b0b5-7760fe1df944
+
+## 大模型玩阿瓦隆桌游
+
+https://github.com/jonathanmli/Avalon-LLM
+
+论文：https://browse.arxiv.org/pdf/2310.05036.pdf
+
+## 大模型玩狼人杀桌游
+
+
